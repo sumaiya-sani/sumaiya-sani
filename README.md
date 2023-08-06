@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @sumaiya-sani
-- 👀 I’m interested in web development 
-- 🌱 I Use python django framework
-- 💞️ I’m looking to collaborate with other web developer 
+- 👀 I’m interested in web-mobile development
+- 🌱 I Use python django framework,dartlanguage,Java
+  
+- 💞️ I’m looking to collaborate with other developer 
 
 
 <!---
